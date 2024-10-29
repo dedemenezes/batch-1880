@@ -1,0 +1,16 @@
+/* INSIDE THE HTML */
+<div>
+  <p id="name" class="heading">Hello</p>
+</div>
+
+p {
+  color: 'red'
+}
+
+#name {
+  color: 'blue';
+}
+
+.heading {
+
+}
