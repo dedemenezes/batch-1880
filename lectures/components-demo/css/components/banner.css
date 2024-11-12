@@ -1,0 +1,14 @@
+.banner {
+  /* relative path to the file */
+  background-image: url("../../images/background.jpg");
+  color: white;
+  padding: 150px 0;
+}
+
+.banner p {
+  opacity: .8;
+}
+
+.banner h1 {
+  margin: 0;
+}

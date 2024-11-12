@@ -4,6 +4,10 @@
 /* --- Components design --- */
 @import url("components/container.css");
 /* TODO: import new components */
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
 
 /* --- Fonts & colors --- */
 body {
